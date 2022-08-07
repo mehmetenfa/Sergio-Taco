@@ -46,7 +46,7 @@ header {
     background: linear-gradient(rgba(129, 45, 45, 0.7), rgba(0, 0, 0, 0.6)), url("/resim1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('banner.jpg');
+    background-image: url('backgroun.jpg');
 }
 
 #main .container1 h1 {
